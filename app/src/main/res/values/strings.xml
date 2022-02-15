@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="radioButtonDecimal">DEC</string>
+    <string name="radioButtonHexadecimal">HEX</string>
+    <string name="radioButtonBinary">BIN</string>
+    <string name="buttonPlus">+</string>
+    <string name="buttonMinus">-</string>
+</resources>
